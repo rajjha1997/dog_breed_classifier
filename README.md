@@ -7,6 +7,8 @@ Along with exploring state-of-the-art CNN models for classification, I have made
 
 If you'd like to use this notebook to do any re-training on the dataset you can grab it at the links below.
 
+# Datasets
+
 Dog Images
 wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip; unzip dogImages.zip; rm dogImages.zip
 
